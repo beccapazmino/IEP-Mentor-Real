@@ -702,6 +702,7 @@
   #contact-form .col-md-12,
   #contact-form .col-md-4 {
     padding-left: 0;
+    padding-top: 10px;
   }
 
   #contact-form .form-control {
