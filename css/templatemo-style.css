@@ -461,6 +461,9 @@
     overflow: hidden;
     text-align: center;
   }
+  .section-title{
+    align-content: center;
+    }
 
   .team-info {
     padding: 20px 30px;
