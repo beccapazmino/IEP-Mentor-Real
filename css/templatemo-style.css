@@ -455,6 +455,9 @@
       TEAM              
   -----------------------------------------*/
 
+  #team{
+    background-color: rgb(232,222,156);
+  }
   .team-thumb {
     background: #ffffff;
     position: relative;
