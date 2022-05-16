@@ -472,6 +472,7 @@
 
   .team-image img {
     width: 100%;
+    align-content: center;
   }
 
   .team-thumb .social-icon {
