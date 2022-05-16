@@ -455,29 +455,38 @@
       TEAM              
   -----------------------------------------*/
 
-  #team{
-    background-color: rgb(246, 239, 239);
+  .team{
+    background: rgb(246, 239,239);
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+  }
+  .section-title{
+    align-content: center;
+    }
+
+  .team-info {
+    padding: 20px 30px;
   }
 
-  .team {
-    display: flex;
-    align-items: center;
-    justify-content: center
-  }
-  
-  .img {
-    max-width: 100%
-  }
-  
-  .image {
-    flex-basis: 40%
-  }
-  
-  .text{
-    font-size: 20px;
-    padding-left: 20px;
+  .team-image img {
+    width: 100%;
   }
 
+  .team-thumb .social-icon {
+    border-top: 1px solid #f0f0f0;
+    padding: 4px 20px 0 20px;
+  }
+
+  .team-thumb .social-icon li a {
+    background: #ffffff;
+    color: #252020;
+  }
+
+  .team-info h3 {
+    margin: 0;
+  }
+ 
 
   /*---------------------------------------
       COURSES             
