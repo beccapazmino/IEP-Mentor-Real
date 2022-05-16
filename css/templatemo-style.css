@@ -458,35 +458,24 @@
   #team{
     background-color: rgb(246, 239, 239);
   }
-  .team-thumb {
-    background: #ffffff;
-    position: relative;
-    overflow: hidden;
-    text-align: center;
+
+  .team {
+    display: flex;
+    align-items: center;
+    justify-content: center
   }
-  .section-title{
-    align-content: center;
-    }
-
- 
-
-  .team-image img {
-    width: 100%;
-    align-content: center;
+  
+  .team img {
+    max-width: 100%
   }
-
-  .team-thumb .social-icon {
-    border-top: 1px solid #f0f0f0;
-    padding: 4px 20px 0 20px;
+  
+  .team image {
+    flex-basis: 40%
   }
-
-  .team-thumb .social-icon li a {
-    background: #ffffff;
-    color: #252020;
-  }
-
-  .team-info h3 {
-    margin: 0;
+  
+  .team{
+    font-size: 20px;
+    padding-left: 20px;
   }
 
 
