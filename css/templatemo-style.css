@@ -465,11 +465,11 @@
     justify-content: center
   }
   
-  .team img {
+  .img {
     max-width: 100%
   }
   
-  .team image {
+  .image {
     flex-basis: 40%
   }
   
