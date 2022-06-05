@@ -469,8 +469,10 @@
     padding: 20px 30px;
   }*/
 
-  .headshot {
-  align-content: center;
+  #team img{
+    display: block;
+    max-width: 100%;
+    height: auto;
   }
 
   /*.team-thumb .social-icon {
@@ -736,12 +738,6 @@
     color: #ffffff;
   }
   
-#team img{
-  vertical-align: middle;
-  display: block;
-  max-width: 100%;
-  height: auto;
-}
 
 
   /*---------------------------------------
