@@ -27,8 +27,8 @@
       animateOut: 'fadeOut',
       items:1,
       loop:true,
-      dots:false,
-      autoplayHoverPause: false,
+      dots:true,
+      autoplayHoverPause: true,
       autoplay: true,
       smartSpeed: 1000,
     })
