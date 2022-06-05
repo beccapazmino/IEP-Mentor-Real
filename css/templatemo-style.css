@@ -471,6 +471,7 @@
 
   .headshot {
   width: 60%;
+  align-content: center;
   }
 
   /*.team-thumb .social-icon {
