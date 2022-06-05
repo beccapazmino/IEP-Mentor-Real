@@ -469,8 +469,9 @@
     padding: 20px 30px;
   }*/
 
-  #team img {
+  .headshot {
   align-content: center;
+  width: 50%;
   }
 
   /*.team-thumb .social-icon {
