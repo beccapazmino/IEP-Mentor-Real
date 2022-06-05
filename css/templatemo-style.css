@@ -486,7 +486,9 @@
   .team h3 {
     align-content: center;
   }
-
+.team span{
+  padding: 50px;
+}
  
 
   /*---------------------------------------
