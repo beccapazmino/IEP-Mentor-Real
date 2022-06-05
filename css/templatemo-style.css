@@ -469,8 +469,8 @@
     padding: 20px 30px;
   }*/
 
-  .team img {
-    width: 50%;
+  #team img {
+  height: 80%;
   }
 
   /*.team-thumb .social-icon {
@@ -486,9 +486,7 @@
   .team h3 {
     align-content: center;
   }
-#team span{
-  padding: 50px;
-}
+
  
 
   /*---------------------------------------
