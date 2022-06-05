@@ -470,7 +470,8 @@
   }*/
 
   #team img {
-  height: 80%;
+  width: 80%;
+  align-content: center;
   }
 
   /*.team-thumb .social-icon {
