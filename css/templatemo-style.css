@@ -457,7 +457,7 @@
 
   #team{
     background: rgb(246, 239,239);
-    position:inherit;
+    position:absolute;
     overflow: hidden;
     text-align: center;
     align-content: center;
