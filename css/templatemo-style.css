@@ -460,6 +460,7 @@
     position:inherit;
     overflow: hidden;
     text-align: center;
+    align-content: center;
   }
   .section-title{
     align-content: center;
