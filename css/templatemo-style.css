@@ -461,6 +461,7 @@
     overflow: hidden;
     text-align: center;
     align-content: center;
+    padding: 20px;
   }
   .section-title{
     align-content: center;
