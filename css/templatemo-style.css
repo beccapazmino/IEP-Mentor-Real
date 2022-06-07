@@ -383,6 +383,7 @@
 
   .home-slider .item-second {
     background-image: url(../images/working-image.jpg);
+    background-position: center;
   }
 
   .home-slider .item-third {
