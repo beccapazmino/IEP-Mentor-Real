@@ -450,37 +450,6 @@
     line-height: 50px;
     text-align: center;
   }
-  .social-icon {
-    position: relative;
-    padding: 0;
-    margin: 0;
-  }
-
-  .social-icon li {
-    display: inline-block;
-    list-style: none;
-    margin-bottom: 5px;
-    margin-top: 10px;
-  }
-
-  .social-icon li a {
-    border-radius: 100px;
-    color: rgb(90, 118, 176);
-    font-size: 15px;
-    width: 50px;
-    height: 50px;
-    line-height: 50px;
-    text-decoration: none;
-    text-align: center;
-    transition: all 0.4s ease-in-out;
-    position: relative;
-    margin: 5px 5px 5px 0;
-  }
-
-  .social-icon li a:hover {
-    background: rgb(232,222,156);
-    color: #ffffff;
-  }
 
 
   /*---------------------------------------
